@@ -2,7 +2,7 @@
 
 # Created by: Sarah
 # Created on: Mar 28, 2022
-# This program asks the user to  guess a number. It then 
+# This program asks the user to  guess a number.It then 
 # checks if number guessed is equalled to number set 
 # as correct. 
 
